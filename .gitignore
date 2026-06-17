@@ -1,0 +1,4 @@
+build/
+dist/
+nbproject/private/
+apikey.sh
